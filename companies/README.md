@@ -19,6 +19,7 @@ Note: This list is not actively maintained.
 - [Aperio](http://www.aperio-systems.com)
 - [Applied Communication Sciences](http://www.appcomsci.com)
 - [Applied Risk](https://applied-risk.com)
+- [Armis](https://www.armis.com)
 - [BAE Systems](https://www.baesystems.com/en/home)
 - [Bayshore Networks](https://www.bayshorenetworks.com)
 - [Bechtel](http://www.bechtel.com/services/defense-nuclear-security/industrial-cybersecurity/)
